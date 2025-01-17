@@ -8,7 +8,7 @@
 ## Weapons
 - [X] Garden Shears
 - [ ] Bronze Trophy
-- [ ] Letter Opener
+- [X] Letter Opener
 
 ## Notes
 
@@ -18,6 +18,8 @@ Dentro de la cocina de la panaderia encontramos a las tijeras de jardineria, don
 para ir al town hall.
 Una vez llegamos al Town hall, entramos a la habitacion de records, donde una pista nos manda a los archivos
 del town hall. En el mismo lugar, encontramos al Maestro.
+La pista que se encontro en el archivo menciona ir a los pasillos en las tiendas. Ahi mismo tambien encontramos el 
+"Letter Opener". Lo que nos deja con casi la repuesta completa.
 
 *Use this space to record your findings and deductions...*
 
