@@ -2,7 +2,7 @@
 
 ## Suspects
 - [X] The Musician
-- [ ] The Teacher
+- [X] The Teacher
 - [ ] The Tailor
 
 ## Weapons
@@ -16,6 +16,8 @@ Primera pista encontrada, nos dirigimos a las tiendas y encontramos el musico. Y
 Ahora nos dirigimos a la panaderia.
 Dentro de la cocina de la panaderia encontramos a las tijeras de jardineria, donde encontramos una pista
 para ir al town hall.
+Una vez llegamos al Town hall, entramos a la habitacion de records, donde una pista nos manda a los archivos
+del town hall. En el mismo lugar, encontramos al Maestro.
 
 *Use this space to record your findings and deductions...*
 
