@@ -6,7 +6,7 @@
 - [ ] The Tailor
 
 ## Weapons
-- [ ] Garden Shears
+- [X] Garden Shears
 - [ ] Bronze Trophy
 - [ ] Letter Opener
 
@@ -14,6 +14,9 @@
 
 Primera pista encontrada, nos dirigimos a las tiendas y encontramos el musico. Ya no es sospechoso.
 Ahora nos dirigimos a la panaderia.
+Dentro de la cocina de la panaderia encontramos a las tijeras de jardineria, donde encontramos una pista
+para ir al town hall.
+
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
