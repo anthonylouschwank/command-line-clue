@@ -20,7 +20,8 @@ Una vez llegamos al Town hall, entramos a la habitacion de records, donde una pi
 del town hall. En el mismo lugar, encontramos al Maestro.
 La pista que se encontro en el archivo menciona ir a los pasillos en las tiendas. Ahi mismo tambien encontramos el 
 "Letter Opener". Lo que nos deja con casi la repuesta completa.
-
+La ultima pista fue encontrada en los pasillos, despues del mercado en las tiendas. Ahi es evidentemente la zona del
+asesinato.
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
